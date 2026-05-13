@@ -2,7 +2,6 @@
 
 hi I`m Fine
 
-fjinhyubdtyvvy
 yogesh
 <!--
 **sriharigoud1913-goud/sriharigoud1913-goud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
